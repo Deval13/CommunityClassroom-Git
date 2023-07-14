@@ -1,2 +1,2 @@
 # CommunityClassroom-Git
-deval says that this community is awosome
+deval says that this community is awesome
